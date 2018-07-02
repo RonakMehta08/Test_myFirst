@@ -3,5 +3,6 @@ create first repository
 
 #### H4 - Title ####
 ~~Edited~~
-**Test - Bold**
-*Test - Italic*
+**Test - Bold *Test - Italic* **
+
+>Display
